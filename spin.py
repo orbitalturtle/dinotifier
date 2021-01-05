@@ -1,7 +1,4 @@
 import serial
-import time
-
-connected = False
 
 ser = serial.Serial("/dev/ttyACM0")
 
